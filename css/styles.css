@@ -15,7 +15,7 @@ a:focus {
   color: #404bbf;
 }
 span {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 address {
   font-style: normal;
@@ -31,10 +31,11 @@ h3 {
 .indexlink {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-weight: 700;
+  color: #4d5ae5;
 }
 
 .menu-item {
@@ -74,8 +75,9 @@ h3 {
 .header-main {
   color: #ffffff;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .main-btn {
@@ -106,7 +108,14 @@ button:focus {
 .team {
   background-color: #f4f4fd;
 }
-
+.team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .team-card {
   background-color: #fff;
 }
@@ -126,6 +135,9 @@ button:focus {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: ;
 }
 .portfolio-card {
   background-color: #e7e9fc;
@@ -144,12 +156,20 @@ button:focus {
 .footer {
   background-color: #2e2f42;
 }
-.corect {
-  color: #f4f4fd;
-}
+
 .footer-ctn {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.footer-link {
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.studio {
+  color: #f4f4fd;
 }
