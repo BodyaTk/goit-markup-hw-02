@@ -126,9 +126,7 @@ button:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.portfolio-card {
-  background-color: #e7e9fc;
-}
+
 .portfolio-title-card {
   font-weight: 500;
   font-size: 20px;
